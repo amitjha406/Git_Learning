@@ -8,6 +8,6 @@ class multiply
    a=sc.nextInt();
    b=sc.nextInt();
    c=a*b;
-   System.out.println(c);
+   System.out.println("num1*num2 = "+c);
   }
 }
